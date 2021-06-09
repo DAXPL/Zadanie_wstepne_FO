@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dialog>
+<wpis>
+<imie>
+OSOBA
+</imie>
+<Tresc>
+Co ona mówi
+</Tresc>
+</wpis>
+<wpis>
+<imie>
+OSOBA2
+</imie>
+<Tresc>
+Ona mówi coś innego
+</Tresc>
+</wpis>
+</Dialog>

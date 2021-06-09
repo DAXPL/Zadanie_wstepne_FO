@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dialog>
+  <wpis>
+    <imie>Marek</imie>
+    <Tresc>Hejo</Tresc>
+  </wpis>
+  <wpis>
+    <imie>Kasia</imie>
+    <Tresc>No cześć</Tresc>
+  </wpis>
+</Dialog>
